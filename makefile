@@ -8,3 +8,7 @@ build:
 
 run: build
 	./uppercase
+
+clean:
+	rm uppercase
+	rm uppercase.o
